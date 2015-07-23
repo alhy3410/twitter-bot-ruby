@@ -1,0 +1,9 @@
+
+
+Each tweet
+
+methods
+.lang = language
+.text = tweet info
+.id = tweet id or .id_string as a string
+.created_at = tweet date
